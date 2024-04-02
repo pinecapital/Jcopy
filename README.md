@@ -1,1 +1,1 @@
-# discord to order
+# discord to place order in interactive broker
